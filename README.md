@@ -1,6 +1,6 @@
 # react form
 
-**src/App.js**
+:open_file_folder: **src/App.js**
 ```jsx
 import React from "react";
 import "./styles.css";
@@ -182,7 +182,7 @@ export default class App extends React.Component {
 }
 ```
 
-**src/components/validator.js**
+:open_file_folder: **src/components/validator.js**
 ```jsx
 import React from "react";
 
